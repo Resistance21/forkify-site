@@ -1,3 +1,3 @@
-# forkify Project --
+# forkify Project
 
 Recipe look up website.
